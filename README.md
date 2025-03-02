@@ -15,6 +15,7 @@ A Streamlit-based financial analytics dashboard.
  git clone https://github.com/yourusername/finance-dashboard.git
 cd finance-dashboard
 git branch { Your branch Name }
+git pull origin main --rebase 
 - Write these two comannds in terminal of Vs code 
 pip install -r requirements.txt
 streamlit run app.py
